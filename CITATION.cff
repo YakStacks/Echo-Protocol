@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or reference the Echo Protocol, please cite it as below."
+title: "Echo Protocol: open coordination specification for community-owned AI inference nodes"
+abstract: "An open coordination specification governing how distributed AI inference nodes discover each other, advertise capabilities, route requests via typed agent handoffs, and synchronize verified software and model state — designed for community-owned infrastructure under unreliable rural network conditions."
+authors:
+  - family-names: "Yarber"
+    given-names: "James"
+    affiliation: "Yak Stacks LLC"
+type: software
+version: "0.1.0"
+doi: 10.5281/zenodo.20649008
+date-released: 2026-06-11
+repository-code: "https://github.com/junkyard22/echo-protocol"
+license: Apache-2.0
+keywords:
+  - distributed AI
+  - edge inference
+  - multi-agent systems
+  - capability routing
+  - community infrastructure
+  - protocol
