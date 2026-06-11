@@ -1,0 +1,33 @@
+{
+  "echo_version": "0.1",
+  "node_id": "ky-montgomery-lib-01",
+  "node_tier": "primary",
+  "timestamp": "2026-06-11T14:00:00Z",
+  "ttl_seconds": 90,
+  "capabilities": {
+    "modalities": ["text"],
+    "max_context_tokens": 128000,
+    "capability_flags": [
+      "general_text",
+      "document_drafting",
+      "long_context",
+      "structured_output"
+    ],
+    "specializations": []
+  },
+  "state": {
+    "memory_headroom_gb": 32.5,
+    "active_requests": 3,
+    "queue_depth": 1,
+    "accepting_escalations": true
+  },
+  "connectivity": {
+    "wan": "up",
+    "failover_active": false
+  },
+  "model_info": {
+    "_comment": "Informational only. Conforming routers MUST NOT key on this object.",
+    "runtime": "ollama",
+    "license_class": "open-weights"
+  }
+}
