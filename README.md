@@ -8,6 +8,10 @@
 **Author:** James Yarber (Yak Stacks)
 **Status:** Specification draft v0.1 — see [`ECHO-SPEC.md`](ECHO-SPEC.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20649008.svg)](https://doi.org/10.5281/zenodo.20649008)
+
+
+
 ---
 
 ## Why
